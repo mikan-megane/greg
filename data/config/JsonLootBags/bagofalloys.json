@@ -1,0 +1,478 @@
+{
+    "itemname": "Bag of Alloys",
+    "color": [
+    17,
+    55,
+    36
+    ],
+    "invSlotsMin": 36,
+    "invSlotsMax": 36,
+    "amountOfItemsMin": 1,
+    "amountOfItemsMax": 1,
+    "rarity": "Epic",
+    "items":
+    [
+        {
+            "min": 1,
+            "max": 5,
+            "weight": 2,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2317
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2334
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2343
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2344
+            }    
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2349
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2350
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2351
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2353
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2316
+            }    
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2308
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2320
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2301
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2352
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2374
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2302
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2360
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2303
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2357
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2305
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2309
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2306
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2348
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2364
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2310
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2358
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2311
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2359
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2312
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2363
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2313
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2371
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2314
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2372
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "gregtech:gt.metaitem.01",
+                "stacksize": 1,
+                "damage": 2315
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "EnderIO:itemAlloy",
+                "stacksize": 1,
+                "damage": 0
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "EnderIO:itemAlloy",
+                "stacksize": 1,
+                "damage": 1
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "EnderIO:itemAlloy",
+                "stacksize": 1,
+                "damage": 4
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "EnderIO:itemAlloy",
+                "stacksize": 1,
+                "damage": 7
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "EnderIO:itemAlloy",
+                "stacksize": 1,
+                "damage": 3
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "EnderIO:itemAlloy",
+                "stacksize": 1,
+                "damage": 5
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "EnderIO:itemAlloy",
+                "stacksize": 1,
+                "damage": 2
+            }
+        },
+        {
+            "min": 2,
+            "max": 7,
+            "weight": 10,
+            "itemstack":
+            {
+                "item": "IC2:itemDust",
+                "stacksize": 1,
+                "damage": 0
+            }
+        }
+    ]
+}

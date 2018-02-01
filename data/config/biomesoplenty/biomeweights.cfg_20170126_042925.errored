@@ -1,0 +1,80 @@
+# Configuration file
+
+"end biome weights" {
+    I:"Spectral Garden"=10
+}
+
+
+"nether biome weights" {
+    I:Boneyard=10
+    I:"Corrupted Sands"=10
+    I:"Phantasmagoric Inferno"=10
+    I:"Polar Chasm"=1
+    I:Undergarden=10
+    I:"Visceral Heap"=10
+}
+
+
+"overworld biome weights" {
+    I:Alps=7
+    I:Arctic=10
+    I:"Bamboo Forest"=7
+    I:Bayou=6
+    I:Bog=7
+    I:"Boreal Forest"=11
+    I:Brushland=11
+    I:Canyon=6
+    I:Chaparral=11
+    I:"Cherry Blossom Grove"=6
+    I:"Coniferous Forest"=11
+    I:Crag=4
+    I:"Dead Forest"=5
+    I:"Dead Swamp"=5
+    I:"Deciduous Forest"=11
+    I:"Dense Forest"=8
+    I:"Eucalyptus Forest=8
+    I:Fen=11
+    I:"Flower Field"=4
+    I:"Frost Forest"=8
+    I:"Fungi Forest"=4
+    I:Garden=5
+    I:Grassland=11
+    I:Grove=8
+    I:Heathland=11
+    I:Highland=8
+    I:"Jade Cliffs"=3
+    I:"Land of Lakes"=5
+    I:"Lavender Fields"=4
+    I:"Lush Desert"=8
+    I:"Lush Swamp"=11
+    I:"Maple Woods"=10
+    I:Marsh=7
+    I:Meadow=10
+    I:Moor=7
+    I:Mountain=11
+    I:"Mystic Grove"=4
+    I:"Ominous Woods"=2
+    I:Orchard=5
+    I:"Origin Valley"=2
+    I:Outback=8
+    I:Prairie=11
+    I:Rainforest=8
+    I:"Redwood Forest"=7
+    I:"Sacred Springs"=4
+    I:"Seasonal Forest"=11
+    I:Shield=8
+    I:Shrubland=11
+    I:Sludgepit=3
+    I:"Snowy Coniferous Forest"=11
+    I:Steppe=6
+    I:"Temperate Rainforest"=11
+    I:Thicket=6
+    I:"Tropical Rainforest"=6
+    I:Tundra=7
+    I:Wasteland=2
+    I:Wetland=7
+    I:Woodland=10
+    I:"Xeric Shrubland"=5
+}
+
+
